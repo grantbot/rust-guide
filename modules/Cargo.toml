@@ -1,0 +1,5 @@
+[package]
+
+name = "modules"
+version = "0.0.1"
+authors = ["Grant Wu <grantwu2@gmail.com>"]
